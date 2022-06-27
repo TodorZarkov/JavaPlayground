@@ -1,3 +1,3 @@
 # JavaPlayground
 java training 
-Java SE 8 1.8 March 2014
+Java SE 7 1.7 2014
